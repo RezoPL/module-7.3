@@ -3,7 +3,7 @@ body {
 	color: #333;
 	text-align: center;
 }
-header {
+header ul {
 	display: inline-block;
 }
 header h1, h2{
