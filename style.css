@@ -3,6 +3,9 @@ body {
 	color: #333;
 	text-align: center;
 }
+header {
+	display: inline-block;
+}
 header h1, h2{
 	color: blue;
 }
